@@ -1,6 +1,6 @@
 {
   "name": "@mfe-patterns/catalog",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "./dist/Catalog.js",
   "scripts": {
@@ -9,6 +9,10 @@
   },
   "author": "vishal sharma",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mfe-patterns/build-time"
+  },
   "files": [
     "dist"
   ],

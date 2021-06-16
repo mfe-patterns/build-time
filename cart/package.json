@@ -1,6 +1,6 @@
 {
   "name": "@mfe-patterns/cart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./dist/Cart.js",
   "scripts": {
@@ -9,6 +9,10 @@
   },
   "author": "vishal sharma",
   "license": "ISC",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mfe-patterns/build-time"
+    },
   "files": [
     "dist"
   ],

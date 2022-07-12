@@ -9,10 +9,10 @@
   },
   "author": "vishal sharma",
   "license": "ISC",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/mfe-patterns/build-time"
-    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mfe-patterns/build-time"
+  },
   "files": [
     "dist"
   ],
